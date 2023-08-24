@@ -1,5 +1,3 @@
-What You Can Expect from this Book
-================================================
 
 In this book, we will explore techniques and strategies for overcoming procrastination with the help of AI. We will start by discussing the concept of procrastination and its negative effects on our lives. Then, we will introduce various AI-powered tools and technologies that can help us overcome procrastination and improve our productivity.
 

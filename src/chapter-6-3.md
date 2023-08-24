@@ -1,5 +1,3 @@
-Personalizing Distraction Management with Machine Learning
-======================================================================================================
 
 Distractions are a common obstacle that can hinder our productivity and lead to procrastination. Fortunately, advances in AI technology provide new opportunities for managing distractions and staying focused on our tasks. In this chapter, we will explore how machine learning can be used to personalize distraction management.
 

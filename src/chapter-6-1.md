@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Distraction Blockers and Mindfulness Techniques
-==========================================================================================================================
 
 Distractions are a common obstacle to productivity and can easily lead to procrastination. Fortunately, advances in AI-powered tools and techniques provide new opportunities for overcoming distractions and staying focused on our tasks.
 

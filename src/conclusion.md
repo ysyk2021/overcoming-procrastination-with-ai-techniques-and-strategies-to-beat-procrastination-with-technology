@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the techniques and strategies for using AI to beat procrastination. We have seen how technology can help us overcome our tendencies to delay and avoid tasks.
 

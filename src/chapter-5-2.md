@@ -1,5 +1,3 @@
-AI-powered Prioritization Methods for Better Task Management
-===========================================================================================================
 
 Effective time management is essential for beating procrastination and achieving our goals. Fortunately, advances in AI technology provide new opportunities for managing our time more effectively. In this chapter, we will explore AI-powered prioritization methods for better task management.
 

@@ -1,5 +1,3 @@
-What is Procrastination and Why Do We Do It?
-======================================================================================
 
 Procrastination is a behavior that involves delaying or postponing tasks or actions that need to be completed. It is a common behavior that affects many people from all walks of life.
 
@@ -36,5 +34,4 @@ Conclusion
 ----------
 
 In conclusion, procrastination is a common behavior that can have serious negative effects on our lives. By understanding the causes and consequences of procrastination, we can develop strategies for overcoming it with the help of AI. In the following chapters, we will explore techniques and strategies for using AI to overcome procrastination and improve our productivity and well-being.
-
 

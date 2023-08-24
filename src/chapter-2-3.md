@@ -1,5 +1,3 @@
-Examples of the Negative Effects of Procrastination
-=============================================================================================
 
 In this chapter, we will explore the concept of procrastination and its negative effects on our lives. By understanding the consequences of procrastination, we can develop strategies for overcoming it with the help of AI.
 

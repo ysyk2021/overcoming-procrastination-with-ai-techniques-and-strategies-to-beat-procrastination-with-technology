@@ -1,5 +1,3 @@
-How AI Can Help Overcome Procrastination
-======================================================
 
 Procrastination is a common behavior that affects many people, often leading to negative consequences such as missed deadlines and reduced productivity. While procrastination can be difficult to overcome on our own, advances in technology have made it easier to tackle this problem with the help of AI.
 

@@ -1,5 +1,3 @@
-Implementing AI-powered decision-making tools for procrastination management
-=============================================================================================================================================================
 
 In this chapter, we will explore how machine learning can be leveraged to provide personalized support for managing procrastination. We will look at how decision-making tools powered by AI can help us identify the underlying causes of procrastination and develop strategies to overcome them.
 

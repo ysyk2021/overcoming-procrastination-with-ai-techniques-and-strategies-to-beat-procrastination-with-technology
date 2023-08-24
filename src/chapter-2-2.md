@@ -1,5 +1,3 @@
-Common Causes and Consequences of Procrastination
-===========================================================================================
 
 Procrastination is a behavior that involves delaying or postponing tasks or actions that need to be completed. It is a common behavior that affects many people from all walks of life.
 

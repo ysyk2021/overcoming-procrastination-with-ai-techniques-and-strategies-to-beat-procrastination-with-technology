@@ -1,5 +1,3 @@
-Machine learning-powered virtual assistants for procrastination support
-========================================================================================================================================================
 
 In this chapter, we will explore how machine learning-powered virtual assistants can provide personalized support for managing procrastination. We will discuss the benefits of using virtual assistants for procrastination management and examine some examples of how these tools can be used.
 

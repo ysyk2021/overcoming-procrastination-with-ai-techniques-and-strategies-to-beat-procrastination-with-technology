@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Procrastination Strategy
-=============================================================
 
 In this chapter, we will explore how to create a personalized procrastination strategy that integrates AI tools.
 

@@ -1,5 +1,3 @@
-The Impact of Procrastination on Productivity and Well-being
-==========================================================================
 
 Procrastination is a behavior that affects many people, often leading to negative consequences such as missed deadlines, reduced productivity, and increased stress and anxiety. The impact of procrastination extends beyond just our work or school life; it can affect our overall well-being as well.
 

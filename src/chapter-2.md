@@ -1,5 +1,3 @@
-Chapter 1: Understanding Procrastination
-========================================
 
 In this chapter, we will explore the concept of procrastination and its causes and consequences. By understanding procrastination, we can develop strategies for overcoming it with the help of AI.
 
@@ -46,5 +44,4 @@ Conclusion
 ----------
 
 In conclusion, procrastination is a common behavior that can have serious consequences in our lives. By understanding the causes and consequences of procrastination, we can develop strategies for overcoming it with the help of AI. In the following chapters, we will explore techniques and strategies for using AI to overcome procrastination and improve our productivity and well-being.
-
 
