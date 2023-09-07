@@ -6,3 +6,7 @@ In this book, we will explore how AI technology can be used to overcome procrast
 This book is written for anyone who struggles with procrastination and is looking for new strategies and techniques to overcome it. Whether you're a student, professional, or simply looking to improve your personal productivity, this book will provide you with practical insights and guidance for using AI technology to beat procrastination and achieve your goals.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
