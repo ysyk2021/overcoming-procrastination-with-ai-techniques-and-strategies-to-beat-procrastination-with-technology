@@ -1,5 +1,4 @@
-Chapter 2: Common Causes and Consequences of Procrastination
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common causes behind procrastination and the resulting consequences that individuals often face. By understanding these causes and consequences, individuals can gain insights into their own procrastination tendencies and develop effective strategies, with the help of AI techniques, to overcome this behavior.
 

@@ -1,5 +1,4 @@
-Chapter 3: Examples of the Negative Effects of Procrastination
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-life examples that highlight the detrimental consequences of procrastination. By understanding the negative effects that procrastination can have on various aspects of our lives, individuals can be motivated to overcome this behavior using AI techniques and strategies.
 

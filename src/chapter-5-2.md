@@ -1,5 +1,4 @@
-Chapter 8: AI-Powered Prioritization Methods for Better Task Management
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI-powered prioritization methods can enhance task management and help individuals overcome procrastination. By leveraging the capabilities of AI algorithms, individuals can optimize their task prioritization process and improve their overall productivity.
 

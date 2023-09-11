@@ -1,5 +1,4 @@
-Chapter 6: Addressing Concerns about Privacy and Security When Using AI for Personal Development
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will address the valid concerns individuals may have regarding privacy and security when utilizing AI for personal development and overcoming procrastination. It is important to understand the potential risks associated with using AI techniques and strategies while also implementing measures to safeguard personal information.
 

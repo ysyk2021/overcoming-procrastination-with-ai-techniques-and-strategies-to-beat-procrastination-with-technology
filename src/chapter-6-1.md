@@ -1,5 +1,4 @@
-Chapter 10: Using Machine Learning-Powered Distraction Blockers and Mindfulness Techniques
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the utilization of machine learning-powered distraction blockers and mindfulness techniques to combat procrastination effectively. By leveraging AI technologies and embracing mindfulness practices, individuals can minimize distractions, enhance focus, and overcome procrastination habits.
 

@@ -1,5 +1,4 @@
-Chapter 6: Setting Realistic Goals and Tracking Progress on Your Procrastination Overcoming Journey
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of setting realistic goals and tracking progress in your procrastination overcoming journey. By establishing clear objectives and monitoring your advancements, you can stay motivated, measure success, and make necessary adjustments along the way.
 

@@ -1,5 +1,4 @@
-Chapter 12: Implementing AI-Powered Decision-Making Tools for Procrastination Management
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the implementation of AI-powered decision-making tools as effective solutions for managing procrastination. By harnessing the capabilities of Artificial Intelligence (AI), individuals can make informed decisions, overcome indecisiveness, and effectively tackle tasks that are prone to procrastination.
 

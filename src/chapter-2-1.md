@@ -1,5 +1,4 @@
-Chapter 1: What is Procrastination and Why Do We Do It?
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of procrastination, its underlying causes, and the psychological factors that contribute to this common behavior. Understanding procrastination from a psychological standpoint can help individuals develop effective strategies and utilize AI techniques to overcome it.
 

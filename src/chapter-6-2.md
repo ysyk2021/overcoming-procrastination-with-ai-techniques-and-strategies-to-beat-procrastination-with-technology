@@ -1,5 +1,4 @@
-Chapter 5: AI-Powered Notification Systems for Increased Focus
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of AI-powered notification systems to overcome procrastination and increase focus. We will discuss how technology, specifically AI, can be harnessed to provide timely and personalized notifications that help individuals stay on track and minimize distractions.
 
